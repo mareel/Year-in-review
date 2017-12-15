@@ -1,0 +1,26 @@
+img {
+  margin: 5px;
+  height: 400px;
+  width: 400;
+  border: 1px solid #ccc;
+}
+
+li {
+  font-size: 20px;
+  font-family: cursive;
+  color: blue;
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+  display: none;
+}
+
+.month {
+  font: 30px;
+  color: aquamarine;
+  display: block;
+}
