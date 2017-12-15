@@ -15,7 +15,7 @@ p {
   font-size: 20px;
 }
 
-img {
+.photo-showing {
   display: none;
 }
 
@@ -24,3 +24,13 @@ img {
   color: aquamarine;
   display: block;
 }
+
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p:hover {
+  text-decoration: underline;
+}
+  
