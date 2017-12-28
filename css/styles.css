@@ -15,7 +15,10 @@ p {
   font-size: 20px;
 }
 
-.photo-showing {
+#march-showing {
+  display: none;
+}
+#may-showing {
   display: none;
 }
 
@@ -25,12 +28,12 @@ p {
   display: block;
 }
 
-p {
+.clickable {
   cursor: pointer;
   color: #0088cc;
 }
 
-p:hover {
+.clickable:hover {
   text-decoration: underline;
 }
   
